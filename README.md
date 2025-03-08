@@ -6,13 +6,10 @@ This is a Spring Boot application for managing employees, providing RESTful APIs
 
 Before running the project, ensure you have the following installed:
 
-Java 17 or later
-
-Maven (for dependency management)
-
-MySQL (or any preferred database)
-
-Postman (for API testing, optional)
+Java 17 
+Maven 
+MySQL 
+Postman 
 
 🛠️ Installation and Setup
 
